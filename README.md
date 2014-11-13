@@ -8,7 +8,7 @@ Include this short JavaScript snippet at the end of your page, before the closin
 
 ```
 <script type="text/javascript">
-!function(a,b){var c,d=a.createElement(b);d.type="text/javascript",d.async=1,d.src=a.location.protocol+"//cdn.undrtone.com/build/share.min.js",c=a.getElementsByTagName(b)[0],c.parentNode.insertBefore(d,c)}(document,"script");
+!function(a,b){var c,d=a.createElement(b);d.type="text/javascript",d.async=1,d.src=a.location.protocol+"//cdn.undrtone.com/build/buttonpost.min.js",c=a.getElementsByTagName(b)[0],c.parentNode.insertBefore(d,c)}(document,"script");
 </script>
 ```
 
