@@ -23,7 +23,7 @@ To create a button with default size to post the song Dogs by Pink Floyd follow 
 To create a button at 50px to post the song Ancient Light by Allman Brown follow the format below.
 
 ```
-<div class="undrtn--post" data-size="50" data-song=""http://soundcloud.com/allmanbrown/ancient-light1">Pigs - Pink Floyd</div>
+<div class="undrtn--post" data-size="50" data-song=""http://soundcloud.com/allmanbrown/ancient-light1">Ancient Light - Allman Brown</div>
 ```
 
 | Attribute | Description
